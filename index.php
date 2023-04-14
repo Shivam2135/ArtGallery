@@ -26,7 +26,7 @@
                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Services</a>
+                    <a class="nav-link" href="services.php">Services</a>
                 </li>
 
                 <li class="nav-item">
@@ -34,7 +34,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </li>
 
             </ul>
@@ -177,7 +177,7 @@
 
     <section class="my-5">
         <div class="py-5">
-            <h2 class="text-center">Art Gallery </h3>
+            <h2 class="text-center">Contact</h3>
         </div>
 
         <div class="w-50 m-auto">
@@ -207,7 +207,7 @@
         </div>
     </section>
 <footer>
-    <p class="p-3 bg-dark text-white text-center">@shivamjoshi</p>
+    <p class="p-3 bg-dark text-white text-left" >@shivamjoshi</p>
 </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
