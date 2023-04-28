@@ -15,7 +15,7 @@
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Name to be changed</a>
+        <a class="navbar-brand">Narayan Art</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -33,15 +33,10 @@
                     <a class="nav-link" href="about.php">About</a>
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.php">Contact</a>
-                </li>
+               
 
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
+           
         </div>
     </nav>
 
@@ -52,7 +47,7 @@
 
 <section class="my-5">
         <div class="py-5">
-            <h2 class="text-center">About Us</h3>
+            <h2 class="text-center">About Me</h3>
         </div>
 
         <div class="container-fluid">
