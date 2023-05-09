@@ -12,8 +12,51 @@
 }
 
 .aboutimg{
-    width:50% ;
-    height: 250px!important;
+    margin-left:20px;
+    width:70% ;
+    height: 450px!important;
 }
+
+.aboutimg :hover{
+    
+}
+
+.container-fluid p {
+   padding-right: 30px;
+    margin-left: 20px;   
+}
+
+.servimg{
+    width:70% ;
+    height: 250px;    
+    box-shadow:  14px 15px 25px grey;
+    opacity: 0.64;
+}
+
+
+.icon i {
+    display: inline;
+    justify-content: normal;
+    padding: 10px;
+}
+ .icon a i{
+    text-decoration: none;
+    color: rgb(254, 252, 252);
+}
+
+.icon  i{
+    text-decoration: none;
+    color: rgb(254, 252, 252);
+}
+
+
+.icon a i:hover{
+    color: rgb(29, 160, 216);
+ }
+ 
+
+ h2{
+    text-decoration: none;
+ }
 
 
