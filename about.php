@@ -19,13 +19,13 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-         <div class="icon">
-       <a href="https://twitter.com/lingoji_narayan?s=09"><i class="fa-brands fa-twitter"></i></a>
-       <a href="https://www.instagram.com/narayanart/"><i class="fa-brands fa-instagram"></i></a>
-       <a href="https://www.youtube.com/@narayanart2802/featured"><i class="fa-brands fa-youtube"></i></a>
-       <a href="https://www.facebook.com/Narayan-lingoji--1852329951464295/?ref=aymt_homepage_panel&eid=ARD0cvq7PByO0fQwo6X77Zh8OSdxTlag3c3NPAwon9XAShUH-P2QRYRgrf18qUmK2nk2BXDFG-V4r4cs"> <i class="fa-brands fa-facebook"></i></a>
-       <a href="https://wa.me/+919130162649"><i class="fa-brands fa-whatsapp"></i></a>
-         </div>
+        <div class="icon">
+            <a href="https://twitter.com/lingoji_narayan?s=09"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://www.instagram.com/narayanart/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.youtube.com/@narayanart2802/featured"><i class="fa-brands fa-youtube"></i></a>
+            <a href="https://www.facebook.com/Narayan-lingoji--1852329951464295/?ref=aymt_homepage_panel&eid=ARD0cvq7PByO0fQwo6X77Zh8OSdxTlag3c3NPAwon9XAShUH-P2QRYRgrf18qUmK2nk2BXDFG-V4r4cs"> <i class="fa-brands fa-facebook"></i></a>
+            <a href="https://wa.me/+919130162649"><i class="fa-brands fa-whatsapp"></i></a>
+        </div>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
@@ -39,11 +39,11 @@
                 <li class="nav-item">
                     <a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
                 </li>
-            </ul> 
+            </ul>
         </div>
     </nav>
 
-<section class="my-5">
+    <section class="my-5">
         <div class="py-5">
             <h2 class="text-center">About Me</h3>
         </div>
@@ -53,21 +53,22 @@
                     <img src="Images/bb.jpg" class="img-fluid aboutimg">
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
-                   
+
                     <p class="py-3" style="font-size: 20px; text-align:justify"> I find inspiration in the beauty of everyday life, the intricacies of nature, and the diverse experiences of humanity.
 
-While I appreciate the works of many renowned artists, I strive to develop my own distinctive style. Through a combination of bold colors, dynamic compositions, and attention to detail, I aim to create visually captivating pieces that leave a lasting impression.
+                        While I appreciate the works of many renowned artists, I strive to develop my own distinctive style. Through a combination of bold colors, dynamic compositions, and attention to detail, I aim to create visually captivating pieces that leave a lasting impression.
 
-I am also a firm believer in the power of art to connect people. I seek to foster a sense of unity and empathy through my work, encouraging viewers to reflect, question, and engage with the world around them. Art has the ability to transcend boundaries and bring people together.<br><br>
+                        I am also a firm believer in the power of art to connect people. I seek to foster a sense of unity and empathy through my work, encouraging viewers to reflect, question, and engage with the world around them. Art has the ability to transcend boundaries and bring people together.<br><br>
 
-Thank you for joining me on this artistic journey. I invite you to explore my portfolio, share your thoughts, and join me in discovering the beauty and power of art. Together, let's celebrate creativity and inspire one another."</p>
-                    
+                        Thank you for joining me on this artistic journey. I invite you to explore my portfolio, share your thoughts, and join me in discovering the beauty and power of art. Together, let's celebrate creativity and inspire one another."</p>
+
                 </div>
             </div>
         </div>
     </section>
-<footer>
-    <p class="p-3 bg-dark text-white text-center">@NarayanArt</p>
-</footer>
+    <footer>
+        <p class="p-3 bg-dark text-white text-center">@NarayanArt</p>
+    </footer>
 </body>
+
 </html>

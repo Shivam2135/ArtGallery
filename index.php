@@ -16,20 +16,21 @@
     <!-- <script src="https://use.fontawesome.com/17802b9d9d.js"></script> -->
     <script src="https://kit.fontawesome.com/68d25eab07.js" crossorigin="anonymous"></script>
 </head>
+
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="75">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand">Narayan Art</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-       <div class="icon">
-       <a href="https://twitter.com/lingoji_narayan?s=09"><i class="fa-brands fa-twitter"></i></a>
-       <a href="https://www.instagram.com/narayanart/"><i class="fa-brands fa-instagram"></i></a>
-       <a href="https://www.youtube.com/@narayanart2802/featured"><i class="fa-brands fa-youtube"></i></a>
-       <a href="https://www.facebook.com/Narayan-lingoji--1852329951464295/?ref=aymt_homepage_panel&eid=ARD0cvq7PByO0fQwo6X77Zh8OSdxTlag3c3NPAwon9XAShUH-P2QRYRgrf18qUmK2nk2BXDFG-V4r4cs"> <i class="fa-brands fa-facebook"></i></a>
-       <a href="https://wa.me/+919130162649"><i class="fa-brands fa-whatsapp"></i></a>
-       </div>
-       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="icon">
+            <a href="https://twitter.com/lingoji_narayan?s=09"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://www.instagram.com/narayanart/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.youtube.com/@narayanart2802/featured"><i class="fa-brands fa-youtube"></i></a>
+            <a href="https://www.facebook.com/Narayan-lingoji--1852329951464295/?ref=aymt_homepage_panel&eid=ARD0cvq7PByO0fQwo6X77Zh8OSdxTlag3c3NPAwon9XAShUH-P2QRYRgrf18qUmK2nk2BXDFG-V4r4cs"> <i class="fa-brands fa-facebook"></i></a>
+            <a href="https://wa.me/+919130162649"><i class="fa-brands fa-whatsapp"></i></a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
@@ -82,7 +83,7 @@
                 <div class="col-lg-6 col-md-6 col-12">
                     <h2 class="display-4">Narayan A. Lingoji</h2>
                     <p class="py-3" style="text-align: justify;"> Hello, and welcome to my artistic world!. A passionate and aspiring young artist from Goa.<br>
-Exploring different mediums and styles is an essential part of my artistic journey. I enjoy experimenting with various techniques to bring my ideas to life. I believe that every art form offers its own possibilities and challenges, and I'm constantly pushing myself to learn and grow.</p>
+                        Exploring different mediums and styles is an essential part of my artistic journey. I enjoy experimenting with various techniques to bring my ideas to life. I believe that every art form offers its own possibilities and challenges, and I'm constantly pushing myself to learn and grow.</p>
                     <a href="about.php" class="btn btn-success">Know me more </a>
                 </div>
             </div>
@@ -100,11 +101,11 @@ Exploring different mediums and styles is an essential part of my artistic journ
                         <img class="card-img-top" src="Images/hrx.jpeg" alt="Card image">
                         <div class="card-body">
                             <h4 class="card-title" style="text-align: center;">Hritik Roshan</h4>
-                            <p class="card-text" style="text-align: center;font-style:italic" >Graphite on A4 sheet.</p>
+                            <p class="card-text" style="text-align: center;font-style:italic">Graphite on A4 sheet.</p>
                         </div>
                     </div>
                 </div>
-              
+
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card" style="width:400px">
                         <img class="card-img-top" src="Images/skapoor.jpeg" alt="Card image">
@@ -125,7 +126,7 @@ Exploring different mediums and styles is an essential part of my artistic journ
                 </div>
             </div>
         </div>
-    </section> 
+    </section>
 
     <!-- painting work img -->
     <section class="my-5">
@@ -160,9 +161,9 @@ Exploring different mediums and styles is an essential part of my artistic journ
                 </div>
             </div>
         </div>
-        </section>
+    </section>
 
-        <section>
+    <section>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12">
@@ -196,13 +197,13 @@ Exploring different mediums and styles is an essential part of my artistic journ
         </div>
 
 
-        </section>
-        
-   
-   
+    </section>
+
+
+
     <section class="my-5">
         <div class="py-5">
-            <h2 class="text-center">Contact</h3>
+            <h2 class="text-center">Contact Me</h3>
         </div>
         <div class="w-50 m-auto">
             <form action="userinfo.php" method="post">
@@ -223,18 +224,21 @@ Exploring different mediums and styles is an essential part of my artistic journ
                     <textarea class="form-control" name="comment">
                     </textarea>
                 </div>
+
                 <button type="submit" class="btn btn-success">Submit</button>
+
             </form>
         </div>
     </section>
-    
+
     <footer>
-        
+
         <p class="p-3 bg-dark text-white text-center">@NarayanArt</p>
-        
+
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
