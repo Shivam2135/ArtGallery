@@ -81,7 +81,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <h2 class="display-4">Narayan A. Lingoji</h2>
-                    <p class="py-3"> Hello, and welcome to my artistic world!. A passionate and aspiring young artist from Goa.<br>
+                    <p class="py-3" style="text-align: justify;"> Hello, and welcome to my artistic world!. A passionate and aspiring young artist from Goa.<br>
 Exploring different mediums and styles is an essential part of my artistic journey. I enjoy experimenting with various techniques to bring my ideas to life. I believe that every art form offers its own possibilities and challenges, and I'm constantly pushing myself to learn and grow.</p>
                     <a href="about.php" class="btn btn-success">Know me more </a>
                 </div>

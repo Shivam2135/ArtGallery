@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/68d25eab07.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -20,7 +21,7 @@
 
          <div class="icon">
        <a href="https://twitter.com/lingoji_narayan?s=09"><i class="fa-brands fa-twitter"></i></a>
-       <a href="https://www.instagram.com/narayanart/"><i class="fa-brands fa-square-instagram"></i></a>
+       <a href="https://www.instagram.com/narayanart/"><i class="fa-brands fa-instagram"></i></a>
        <a href="https://www.youtube.com/@narayanart2802/featured"><i class="fa-brands fa-youtube"></i></a>
        <a href="https://www.facebook.com/Narayan-lingoji--1852329951464295/?ref=aymt_homepage_panel&eid=ARD0cvq7PByO0fQwo6X77Zh8OSdxTlag3c3NPAwon9XAShUH-P2QRYRgrf18qUmK2nk2BXDFG-V4r4cs"> <i class="fa-brands fa-facebook"></i></a>
        <a href="https://wa.me/+919130162649"><i class="fa-brands fa-whatsapp"></i></a>
