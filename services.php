@@ -40,11 +40,18 @@
         </div>
     </nav>
 
-    <div class="jumbotron">
-        <h3>
-            <p>Order your own Realistic portraits at best price.<br>Shipping done all over India.<br>Drop a message for more details</p>
-        </h3>
+    <div class="jumbotron jumbotron-fluid">
+       <div class="container">
+       <h4 class="display-4">
+            <p class="lead">Order your own Realistic portraits at best price.<br>Shipping done all over India.<br>Drop a message for more details</p>
+        </h4>
+       </div>
     </div>
+    <h5>
+        <p style="line-height: 1.8rem;"> We create portraits of individual as well as couples. On A4 sheets of paper, coloured and graphite charcoal are available at competitive costs
+        .<br> All of India is covered by shipping; all you need to include is your name, full postal address, a phone number, and a reference photo for your realistic sketch. UPI is the only payment option. DM on whatsapp or send an Email.
+        </p>
+        </h5>
 
     <section class="my-5">
         <div class="py-5">
@@ -56,18 +63,16 @@
                 <div class="col-lg-6 col-md-6 col-12">
                     <img src="Images/pricechart.jpeg" class="img-fluid servimg">
                 </div>
-                <div class="col-lg-6 col-md-6 col-12">
-                    <p class="py-3" style="text-align: justify;font-size: 20px;">We create portraits of individuals as well as couples. On A4 sheets of paper, coloured and graphite charcoal are available at competitive costs.<br> All of India is covered by shipping; all you need to include is your name, full postal address, a phone number, and a reference photo for your realistic sketch.
-UPI is the only payment option. DM on whatsapp or send an Email.
-</p>
-
-                </div>
+               
             </div>
         </div>
     </section>
     <footer>
         <p class="p-3 bg-dark text-white text-center">@NarayanArt</p>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
