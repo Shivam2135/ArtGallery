@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <p class="py-3" style="text-align: justify;font-size: 20px;">We create portraits of individuals as well as couples. On A4 sheets of paper, coloured and graphite charcoal are available at competitive costs.<br> All of India is covered by shipping; all you need to include is your name, full postal address, a phone number, and a reference photo for your realistic sketch.
-UPI is the only payment option.
+UPI is the only payment option. DM on whatsapp or send an Email.
 </p>
 
                 </div>

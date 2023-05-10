@@ -29,6 +29,7 @@
             <a href="https://www.youtube.com/@narayanart2802/featured"><i class="fa-brands fa-youtube"></i></a>
             <a href="https://www.facebook.com/Narayan-lingoji--1852329951464295/?ref=aymt_homepage_panel&eid=ARD0cvq7PByO0fQwo6X77Zh8OSdxTlag3c3NPAwon9XAShUH-P2QRYRgrf18qUmK2nk2BXDFG-V4r4cs"> <i class="fa-brands fa-facebook"></i></a>
             <a href="https://wa.me/+919130162649"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="mailto:narayanart2727@gmail.com"><i class="fa-regular fa-envelope fa-beat" style="color: #e71313;"></i></a>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
