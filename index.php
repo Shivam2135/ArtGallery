@@ -11,10 +11,10 @@
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/fontawesome.min.css"/> -->
-
     <!-- font-awesome cdn -->
     <!-- <script src="https://use.fontawesome.com/17802b9d9d.js"></script> -->
     <script src="https://kit.fontawesome.com/68d25eab07.js" crossorigin="anonymous"></script>
+    <script src="validate.js"></script>
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="75">
@@ -207,7 +207,7 @@
             <h2 class="text-center">Contact Me</h3>
         </div>
         <div class="w-50 m-auto">
-            <form action="userinfo.php" method="post">
+            <form name="RegForm" onsubmit="VALIDATION()" action="send.php" method="post">
                 <div class="form-group">
                     <label>Name</label>
                     <input type="text" name="user" autocomplete="off" class="form-control">
@@ -225,13 +225,13 @@
                     <textarea class="form-control" name="comment">
                     </textarea>
                 </div>
-
+		    
                 <button type="submit" class="btn btn-success">Submit</button>
-
+			
             </form>
         </div>
-    </section>
 
+    </section>
     <footer>
         <p class="p-3 bg-dark text-white text-center">@NarayanArt</p>
     </footer>
