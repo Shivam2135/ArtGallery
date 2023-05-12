@@ -40,22 +40,27 @@
         </div>
     </nav>
 
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid" style="background-image: url(Images/bg.jpg); background-repeat:no-repeat;-webkit-background-size:cover; -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;">
         <div class="container">
             <h4 class="display-4">
-                <p class="lead" style="margin-top: 20px;">Order your own Realistic portraits at best price.<br>Shipping done all over India.<br>Drop a message for more details</p>
+                <p class="lead" style="color:white; font-size:2rem">Order your own Realistic portraits at best price.<br>Shipping done all over India.<br>Drop a message for more details.</p>
             </h4>
         </div>
     </div>
-    <h5>
-        <p id="para" style="line-height: 1.8rem;"> We create portraits of individual as well as couples. On A4 sheets of paper, coloured and graphite charcoal are available at competitive costs
-            .<br> All of India is covered by shipping; all you need to include is your name, full postal address, a phone number, and a reference photo for your realistic sketch. UPI is the only payment option. DM on whatsapp or send an Email.
-        </p>
-    </h5>
 
     <section class="my-5">
         <div class="py-5">
             <h2 class="text-center">Our Services</h2>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-12 serv">
+                    <img src="Images/pricechart.jpeg" class="img-fluid servimg">
+                </div>
+            </div>
         </div>
 
         <div class="container-fluid">
