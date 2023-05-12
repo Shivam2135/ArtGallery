@@ -29,8 +29,9 @@
     width: 50%;
     height: 200px;
     box-shadow: 14px 15px 25px grey;
-
+    display:grid;
 }
+
 
 
 .icon i {

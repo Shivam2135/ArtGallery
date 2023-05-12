@@ -180,7 +180,7 @@
                     <div class="card" style="width:400px">
                         <img class="card-img-top" src="Images/bhuvanbam.jpg" alt="Card image" height="500px">
                         <div class="card-body">
-                            <h4 class="card-title" style="text-align: center;">Youtuber Bhuvan Sam</h4>
+                            <h4 class="card-title" style="text-align: center;">Youtuber Bhuvan Bam</h4>
                             <p class="card-text" style="text-align: center;font-style:italic">Graphite on A4 sheet</p>
                         </div>
                     </div>

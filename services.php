@@ -57,16 +57,8 @@
 
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-12 serv">
-                    <img src="Images/pricechart.jpeg" class="img-fluid servimg">
-                </div>
-            </div>
-        </div>
-
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-12">
-                    <img src="Images/pricechart.jpeg" class="img-fluid servimg">
+                <div class="col-lg-6 col-md-6 col-12 ">
+                    <img src="Images/pricechart.jpeg"  class="img-fluid servimg">
                 </div>
             </div>
         </div>
